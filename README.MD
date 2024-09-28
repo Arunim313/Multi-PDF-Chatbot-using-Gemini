@@ -1,5 +1,8 @@
    # Chat with Multiple PDFs using RAG
 
+   ## Get your API Key
+   Set up your Google API key from https://makersuite.google.com/app/apikey by creating a .env file in the root directory of the project with the following contents:
+
    ## Setup
 
    1. Clone this repository
