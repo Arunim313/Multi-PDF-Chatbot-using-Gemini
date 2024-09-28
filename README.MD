@@ -1,4 +1,4 @@
-   # Your Project Name
+   # Chat with Multiple PDFs using RAG
 
    ## Setup
 
